@@ -1,0 +1,27 @@
+.object {
+	position: absolute;
+	border-radius: 5px;
+}
+.seat.horizontal {
+	text-align: center;
+	height: 60px;
+}
+.seat.vertical {
+	height: 400px;
+}
+.seat.fringe {
+	text-align: center;
+}
+.seat {
+	line-height: 60px;
+	background-color: #ddd;
+}
+#area {
+}
+#table {
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+li.folder {
+	cursor: pointer;
+}

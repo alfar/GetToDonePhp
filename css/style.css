@@ -1,0 +1,144 @@
+/*
+	Brown: B23D00
+	Light orange: FF6719
+	Rich orange: FF5600
+	Backgrounds: 00B2A8
+	Lighter: 6CFFF6
+*/
+body {
+	font-family: verdana;
+	font-size: 12px;
+}
+a, a:visited, a:active, a:hover {
+	color: #FF5600;
+}
+#header {
+	background: transparent url('../images/tophat.png') no-repeat;
+	padding-left: 90px;
+	font-size: 30px;
+	line-height: 60px;
+	color: #000;
+	margin-bottom: 10px;
+}
+#login {
+	float: right;
+}
+#login p {
+	padding: 0;
+	margin: 0;
+}
+#login img {
+	vertical-align: bottom;
+}
+#menu {
+	background-color: #00B2A8;
+	height: 50px;
+}
+#menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#menu li {
+	float: left;
+}
+#menu a {
+	text-decoration: none;
+	color: #000;
+	height: 50px;
+	line-height: 50px;
+	padding: 18px 16px;
+}
+#menu a:hover {
+	text-decoration: underline;
+	background-color: #6CFFF6;
+}
+#submenu {
+	background-color: #FF6719;
+	height: 20px;
+}
+#submenu ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;	
+}
+#submenu li {
+	float: left;
+}
+#submenu a {
+	text-decoration: none;
+	color: #000;
+	padding: 0px 16px;	
+	height: 20px;
+	line-height: 20px;
+	display: inline-block;
+}
+#submenu a:hover {
+	text-decoration: underline;	
+	background-color: #FF5600;	
+}
+
+#content {
+	margin-top: 20px;
+}
+
+label {
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+div.dropdown {
+	display: inline-block;
+	vertical-align: middle;
+}
+input.textbox {
+	width: 600px;
+}
+textarea {
+	width: 598px;
+	height: 400px;
+}
+.mceEditor {
+	display: inline-block;
+	vertical-align: top;
+}
+.commands {
+	visibility: hidden;
+}
+
+li:hover .commands {
+	visibility: visible;	
+}
+
+.itemlist {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.itemlist li {
+	background: url('../images/frame.png') repeat-x;	
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 5px;
+}
+.itemlist li:before {
+	content: "";
+	width: 2px;
+	height: 50px;
+	background: url('../images/frame.png') 0px -50px no-repeat;
+	float: left;
+	margin-right: 12px;
+}
+
+.itemlist li:after {
+	content: "";
+	width: 2px;
+	height: 50px;
+	background: url('../images/frame.png') 0px -100px no-repeat;
+	float: right;
+}
+.meta {
+	font-style: italic;
+	color: #ccc;
+	margin-bottom: 5px;
+}

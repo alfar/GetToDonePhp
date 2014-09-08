@@ -1,0 +1,3 @@
+RewriteEngine On
+ReqriteCond %{REQUEST_URI} index\.php
+RewriteRule .* - [E=Cache-Control:no-cache]

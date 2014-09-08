@@ -1,0 +1,143 @@
+# Webalizer V2.20-01 Incremental Data - 06/30/2014 04:24:15
+2014 6 30 4 24 15
+49 48 2 6 3 1 302039 1 1 0
+1 1 6 1 30
+3 3 12 1 0 0
+7 6 301871 2 1 1
+2 2 8 1 0 0
+2 2 8 1 0 0
+0 0 0 0 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 4 1 0 0
+2 2 8 1 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+1 1 4 1 0 0
+0 0 0 0 0 0
+1 1 4 1 0 0
+3 3 12 1 0 0
+3 3 12 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 12 1 0 0
+2 2 8 1 0 0
+2 2 8 1 0 0
+6 6 24 1 0 0
+1 1 4 1 0 0
+2 2 8 1 0 0
+1 1 4 1 0 0
+0 0 0 0 0 0
+3 3 12 0
+1 1 4 0
+1 1 4 0
+2 2 8 0
+5 5 20 0
+1 1 4 0
+4 4 16 0
+10 9 301883 1
+1 1 4 0
+2 2 8 0
+1 1 4 0
+2 2 8 0
+1 1 4 0
+2 2 8 0
+1 1 4 0
+1 1 4 0
+0 0 0 0
+0 0 0 0
+4 4 16 0
+3 3 12 0
+1 1 4 0
+1 1 4 0
+0 0 0 0
+2 2 8 0
+0
+0
+0
+48
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 1 0 1239 1 0
+/javascript/jquery-1.10.1.js
+0 1 0 274080 0 0
+/.surftown.benchmark.php
+0 43 0 172 0 0
+/assets/css/bootstrap.min.css
+0 1 0 17048 0 0
+/assets/js/bootstrap.min.js
+0 1 0 7668 0 0
+/javascript/collect.js
+0 1 0 446 0 0
+# End Of Table - urls
+# -sites- (monthly)
+wsi4.surf-town.net
+0 43 43 172 0 0
+-
+mail.intranote.com
+0 6 5 301867 1 1401695563
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+wsi4.surf-town.net
+0 1 1 4 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 44
+http://v2.gettodone.dk/index.php/
+1 1
+http://v2.gettodone.dk/index.php/auth/login
+1 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
